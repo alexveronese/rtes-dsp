@@ -25,8 +25,8 @@
 
 #define LED_PIN 	25
 #define ADC_PIN 	26
-#define SAMPLE_RATE 16000
-#define BUFFER_SIZE 128  // Dimensione del "batch" di campioni
+#define SAMPLE_RATE 32000
+#define BUFFER_SIZE 256  // Dimensione del "batch" di campioni
 
 #define P_AUDIO		5
 
